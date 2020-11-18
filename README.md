@@ -1,8 +1,8 @@
-# Icons and Images for Projects and Websites
+# Icons and Images used in my Projects and Websites
 
 
 
-## Referências
+## References
 
 - [x] [Icon](https://www.iconfinder.com)
 - [x] [Material IO](https://material.io/)
